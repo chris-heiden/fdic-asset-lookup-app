@@ -1,0 +1,19 @@
+{
+  "name": "fdic-asset-lookup-app",
+  "version": "1.0.0",
+  "description": "HubSpot CRM card for FDIC asset size lookup",
+  "main": "src/app/extensions/index.js",
+  "scripts": {
+    "start": "hs-app-deploy",
+    "upload": "hs-app-upload",
+    "logs": "hs-logs"
+  },
+  "dependencies": {
+    "@hubspot/ui-extensions": "^0.8.*",
+    "react": "^18.0.0",
+    "axios": "^1.4.0"
+  },
+  "devDependencies": {
+    "@hubspot/cli": "latest"
+  }
+}
