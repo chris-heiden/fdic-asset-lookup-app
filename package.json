@@ -8,9 +8,8 @@
     "upload": "hs project upload"
   },
   "dependencies": {
-    "@hubspot/ui-extensions": "^0.8.*",
-    "react": "^18.0.0",
-    "axios": "^1.4.0"
+    "@hubspot/ui-extensions": "latest",
+    "react": "^18.0.0"
   },
   "devDependencies": {
     "@hubspot/cli": "latest"
