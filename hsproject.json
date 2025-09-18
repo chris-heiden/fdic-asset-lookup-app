@@ -1,5 +1,5 @@
-
 {
   "name": "fdic-asset-lookup-app",
-  "srcDir": "src"
+  "srcDir": "src",
+  "platformVersion": "2025.2"
 }
